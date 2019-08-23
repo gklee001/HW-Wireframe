@@ -1,7 +1,60 @@
+
+.main {
+    display: block;
+    padding: 20px;
+    Margin-left: 75px;
+    Margin-right: 75px;
+    background: whitesmoke;
+    text-align: center;
+    color: #777;
+}
 .body {
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
-    background: #777;
+    background: white;
     width: 960px;
     font-size: 18px;
+    text-align: center;
+    padding-bottom: 30px;
 }
+.nav {
+    Display: block;
+    padding: 15px;
+    Margin-Left: 75px;
+    Margin-Right: 75px;
+    background: whitesmoke;
+    text-align: center;
+    color:#777;
+    margin-top: 20px;
+}
+.section {
+    Display: block;
+    float: left;
+    width: 500px;
+    height: 400px;
+    padding: 30px;
+    Margin-left:70px;
+    Margin-right: 70px;
+    background: whitesmoke;
+    Margin-top: 35px;
+    text-align: center;
+    color: #777;
+}
+#article {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 0px;
+    overflow: auto;
+    clear: both;
+    color: whitesmoke;
+    background: #777;
+  }
+  .h1 {
+      width: 100%;
+      height: 75px;
+      padding: 3px;
+      background:whitesmoke;
+
+  }
