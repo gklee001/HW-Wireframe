@@ -5,6 +5,7 @@
     padding: 20px;
     Margin-left: 75px;
     Margin-right: 75px;
+    width: 90%;
     background: whitesmoke;
     text-align: center;
     color: #777;
@@ -13,13 +14,14 @@
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
     background:#777;
-    width: 960px;
+    width: 90%;
     font-size: 18px;
     text-align: center;
     padding-bottom: 30px;
 }
 .nav {
     Display: block;
+    width: %;
     padding: 15px;
     Margin-Left: 75px;
     Margin-Right: 75px;
@@ -29,7 +31,7 @@
     margin-top: 20px;
 }
 .section {
-    Display: inline-block;
+    Display: auto;
     float: left;
     width: 40%;
     height: 400px;
@@ -52,29 +54,26 @@
     color: whitesmoke;
     background: #777;
   }
-  #h1 {
-      width: 100%;
-      height: 100px;
-      background: #777;
-      margin-bottom: 30px;
-  }
   #second {
-      Width: 50%;
-      height: 50%;
+      Width: 100%;
+      height: 20%;
+      margin-top: 10px;
       float: center;
-      background: gray;
-      font-display: black;
+      text-align: center;
+      background:whitesmoke;
+      color: #777;
   }
   #p {
       Display: block;
-      height: 50px;
-      width: 50%;
+      height: 20%;
+      width: 100%;
       float: center;
       background: whitesmoke;
       margin-top: 30px;
+      color: #777;
   }
   #aside {
-      Display: inline-block;
+      Display: auto;
       float: right;
       width: 40%;
       height: 400px;
